@@ -1,0 +1,7 @@
+Install Json Server---------
+Run: npm i -D json-server
+Install as Dev Dependencies
+
+Run Json Server
+Run: npx json-server --watch database/db.json --port 1000
+                                {Path Name}     {change Port}
